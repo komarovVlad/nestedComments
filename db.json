@@ -1,0 +1,148 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1,
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "body": "response to 1",
+      "postId": 1,
+      "author": "typicode",
+      "responseTo": 1
+    },
+    {
+      "id": 3,
+      "body": "response to 2",
+      "postId": 1,
+      "author": "typicode",
+      "responseTo": 2
+    },
+    {
+      "body": "tata",
+      "author": "typicode",
+      "responseTo": 3,
+      "id": 4
+    },
+    {
+      "body": "chacha",
+      "author": "typicode",
+      "responseTo": 2,
+      "id": 5
+    },
+    {
+      "body": "tatat",
+      "author": "typicode",
+      "responseTo": 5,
+      "id": 6
+    },
+    {
+      "body": "adad",
+      "author": "typicode",
+      "responseTo": 4,
+      "id": 7
+    },
+    {
+      "body": "aadad",
+      "author": "typicode",
+      "responseTo": 1,
+      "id": 8
+    },
+    {
+      "body": "sdasdad",
+      "author": "typicode",
+      "responseTo": 1,
+      "id": 9
+    },
+    {
+      "body": "zcfaf",
+      "author": "typicode",
+      "responseTo": 6,
+      "id": 10
+    },
+    {
+      "body": "afafa",
+      "author": "typicode",
+      "responseTo": 7,
+      "id": 11
+    },
+    {
+      "body": "aaa",
+      "author": "typicode",
+      "responseTo": 5,
+      "id": 12
+    },
+    {
+      "body": "asdasd",
+      "author": "typicode",
+      "responseTo": 8,
+      "id": 13
+    },
+    {
+      "body": "aaaaa",
+      "author": "typicode",
+      "responseTo": 13,
+      "id": 14
+    },
+    {
+      "body": "aafaf",
+      "author": "typicode",
+      "responseTo": 12,
+      "id": 15
+    },
+    {
+      "body": "addddd",
+      "author": "typicode",
+      "responseTo": 10,
+      "id": 16
+    },
+    {
+      "body": "aaaaa",
+      "author": "typicode",
+      "responseTo": 2,
+      "id": 17
+    },
+    {
+      "body": "aaaaaaa",
+      "author": "typicode",
+      "responseTo": 3,
+      "id": 18
+    },
+    {
+      "body": "ffffff",
+      "author": "typicode",
+      "responseTo": 14,
+      "id": 19
+    },
+    {
+      "body": "fffaaaa",
+      "author": "typicode",
+      "responseTo": 14,
+      "id": 20
+    },
+    {
+      "body": "sfsf",
+      "author": "typicode",
+      "responseTo": 13,
+      "id": 21
+    },
+    {
+      "body": "afafaf",
+      "author": "typicode",
+      "responseTo": 13,
+      "id": 22
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
